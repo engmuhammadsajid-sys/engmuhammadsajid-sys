@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**engmuhammadsajid-sys/engmuhammadsajid-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Muhammad Sajid**, a Full Stack MERN Developer from Pakistan.
 
-Here are some ideas to get you started:
+I build modern, scalable web applications with a focus on clean architecture, performance, and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+**Frontend**
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+**Databases**
+- MongoDB
+- PostgreSQL
+- MySQL
+
+**Tools**
+- Git • GitHub • Docker • Firebase • Postman • Vercel
+
+## 🌟 Featured Project
+
+### Full Stack MERN Chat Platform
+
+A real-time chat application built with the MERN stack featuring authentication, real-time messaging, and a responsive UI.
+
+🔗 https://github.com/engmuhammadsajid-sys/fullstack-chat-platform
+
+## 📈 Currently
+
+- Building full-stack web applications
+- Learning system design and scalable architectures
+- Contributing to open-source projects
