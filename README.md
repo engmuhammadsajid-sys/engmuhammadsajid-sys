@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Muhammad Sajid**, a Full Stack MERN Developer from Pakistan.
+I'm **Muhammad Sajid**, a Full Stack MERN Developer
 
 I build modern, scalable web applications with a focus on clean architecture, performance, and user experience.
 
